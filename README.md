@@ -1,1 +1,1 @@
-# Esse repositório eu criei para guarda meus primeiro códigos de programação
+# Esse repositório,eu criei para guarda meus primeiros códigos de programação.
